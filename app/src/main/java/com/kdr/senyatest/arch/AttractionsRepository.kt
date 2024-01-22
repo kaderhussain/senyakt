@@ -1,9 +1,9 @@
-package com.dmp.senya.arch
+package com.kdr.senyatest.arch
 
 import android.content.Context
-import com.dmp.senya.R
-import com.dmp.senya.data.Attraction
-import com.dmp.senya.data.AttractionsResponse
+import com.kdr.senyatest.R
+import com.kdr.senyatest.data.Attraction
+import com.kdr.senyatest.data.AttractionsResponse
 import com.squareup.moshi.JsonAdapter
 import com.squareup.moshi.Moshi
 import com.squareup.moshi.kotlin.reflect.KotlinJsonAdapterFactory

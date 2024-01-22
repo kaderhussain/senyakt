@@ -1,4 +1,4 @@
-package com.dmp.senya.data
+package com.kdr.senyatest.data
 
 data class Attraction(
     val description: String = "",
