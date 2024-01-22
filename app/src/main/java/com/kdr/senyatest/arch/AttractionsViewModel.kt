@@ -8,7 +8,7 @@ import com.kdr.senyatest.data.Attraction
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 
-class AttractionViewModel: ViewModel() {
+class AttractionsViewModel: ViewModel() {
 
     private val repository = AttractionsRepository()
 
