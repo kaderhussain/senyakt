@@ -36,8 +36,8 @@ jobs:
       - name: Set Up JDK
         uses: actions/setup-java@v3
         with:
-          distribution: 'zulu' # See 'Supported distributions' for available options
-          java-version: '17'
+          distribution: 'temurin' # See 'Supported distributions' for available options
+          java-version: '21'
           cache: 'gradle'
 
       # Runs a set of commands using the runners shell
